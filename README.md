@@ -14,12 +14,16 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ## Summary 
 
-1- Deliverable 1
+**1- Deliverable 1** : Add Tectonic Plate Data 
+
+
 
 ![--](/Resources/Tectonic_plate.PNG)
 
-
+**1- Deliverable 2** : Add Major Earthquake Data
 
 ![--](/Resources/Tectonic_plate_satelite.PNG)
+
+**1- Deliverable 3** : Add an Additional Map
 
 ![--](/Resources/Tectonic_plate_dark.PNG)

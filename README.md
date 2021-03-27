@@ -10,3 +10,6 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 - Data : [cities](/cities.js), [toronto_neighbour](/torontoNeighborhoods.json).
 - Sofware : HTML/CSS, D3, VS Code, Leaflet, JavaScript
+
+
+## Summary 

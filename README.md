@@ -20,10 +20,10 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ![--](/Resources/Tectonic_plate.PNG)
 
-**1- Deliverable 2** : Add Major Earthquake Data
+**1- Deliverable 2** : Sattelite view
 
 ![--](/Resources/Tectonic_plate_satelite.PNG)
 
-**1- Deliverable 3** : Add an Additional Map
+**1- Deliverable 3** : dark view
 
 ![--](/Resources/Tectonic_plate_dark.PNG)

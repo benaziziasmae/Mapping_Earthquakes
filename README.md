@@ -17,3 +17,9 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 1- Deliverable 1
 
 ![--](/Resources/Tectonic_plate.PNG)
+
+
+
+![--](/Resources/Tectonic_plate_satelite.PNG)
+
+![--](/Resources/Tectonic_plate_dark.PNG)

@@ -8,6 +8,5 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ## Resources
 
-- Data : [cities](/Mapping_GeoJSON_Points/static/js/cities.js)
-
+- Data : [cities](/Mapping_GeoJSON_Points/static/js/cities.js), [toront_neighbour](/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json)
 - Sofware : HTML/CSS, D3, VS Code, Leaflet, JavaScript

@@ -13,3 +13,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 
 ## Summary 
+
+1- Deliverable 1
+
+![--](/Resources/Tectonic_plate.PNG)
